@@ -2,6 +2,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=mjagana47&stroke=red)
 
+LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-jagana-0b4201a9)
 Tableau Portfolio: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 <!--
 **mjagana/mjagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
