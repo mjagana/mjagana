@@ -4,7 +4,7 @@
 <!--
 **mjagana/mjagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Tableau profile: https://public.tableau.com/app/profile/maneesh.jagana/vizzes
+My Tableau profile: ![Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
 Here are some ideas to get you started:
 
