@@ -7,7 +7,7 @@ LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-
 Tableau Portfolio: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
 Badges:
-(<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8366096-0547-4ded-a288-f7391dbc8e24" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+(https://www.credly.com/badges/f8366096-0547-4ded-a288-f7391dbc8e24/public_url)
 
 <!--
 **mjagana/mjagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
