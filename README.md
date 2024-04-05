@@ -7,6 +7,7 @@ LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-
 Tableau Portfolio: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
 Badges:
+
 (https://www.credly.com/badges/f8366096-0547-4ded-a288-f7391dbc8e24/public_url)
 
 <!--
