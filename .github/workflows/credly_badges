@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: mjagana25/badge-readme@main
+        uses: mjagana/badge-readme@main
         with:       
           CREDLY_USER: <username_credly> # optional, but default will use the same from github
