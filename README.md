@@ -1,4 +1,4 @@
-### Maneesh Jagana's Portfolio Summary
+### Maneesh Jagana's Portfolio
 
 ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 
