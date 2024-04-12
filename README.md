@@ -6,8 +6,6 @@ LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-
 
 Tableau Portfolio: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
