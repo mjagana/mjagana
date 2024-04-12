@@ -1,4 +1,4 @@
-### Hello, this is Maneesh Jagana
+### Maneesh Jagana's Portfolio Summary
 
 ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 
