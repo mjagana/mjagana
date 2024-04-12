@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, this is Maneesh Jagana
 
 ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 
