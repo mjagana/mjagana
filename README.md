@@ -2,7 +2,7 @@ Maneesh Jagana's Portfolio
 
 LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-jagana-0b4201a9)
 
-Tableau Portfolio: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
+Tableau Profile: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
