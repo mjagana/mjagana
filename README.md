@@ -1,6 +1,6 @@
 ### Maneesh Jagana's Portfolio
 
-#![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
+# ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 
 LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/maneesh-jagana-0b4201a9)
 
