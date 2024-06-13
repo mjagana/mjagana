@@ -4,9 +4,10 @@ LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/mjagana)
 
 Tableau Profile: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
+![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
+
 
 <!--
 **mjagana/mjagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
