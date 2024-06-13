@@ -4,7 +4,9 @@ LinkedIn Profile: [Maneesh Jagana_LinkedIn](https://www.linkedin.com/in/mjagana)
 
 Tableau Profile: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile/maneesh.jagana/vizzes)
 
-![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
+![LeetCode Stats](https://leetcode.card.workers.dev/ManeeshJ?theme=dark&font=baloo&extension=null)
+
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
