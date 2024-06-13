@@ -6,7 +6,7 @@ Tableau Profile: [Maneesh Jagana_Tableau](https://public.tableau.com/app/profile
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ManeeshJ?theme=dark&font=baloo&extension=null) 
 
-![Codewars](https://github.r2v.ch/codewars?user=mjagana25&stroke=red)
+![Codewars](https://github.r2v.ch/codewars?user=ManeeshJ&stroke=red)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
