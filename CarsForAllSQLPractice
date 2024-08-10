@@ -1,3 +1,5 @@
+![CarsForAll](/Users/maneeshj/Desktop)
+
 /* 1. Create a list of employees and their immediate managers */
 
 SELECT e1.firstName,
